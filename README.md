@@ -6,6 +6,9 @@ by Giovanni Dicanio
 This is a header-only C++ library containing some helper functions to convert Unicode strings
 to upper and lower cases.
 
+Related blog post:
+https://giodicanio.com/2024/10/09/how-to-convert-cpp-unicode-strings-to-lower-and-upper-cases/
+
 
 ## A popular but wrong way of converting strings to upper or lower cases
 

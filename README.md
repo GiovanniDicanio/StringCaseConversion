@@ -88,7 +88,7 @@ strings represented by `std::wstring` instances, abstracting away all the detail
 the low-level `LCMapStringEx` Windows API (and properly allocating the destination string buffer, 
 checking for errors, etc.)
 
-To use this *header-only* library, simply `#include` the [**`StringCaseConv.hpp`** header](StringCaseConversion/WinReg.hpp).
+To use this *header-only* library, simply `#include` the [**`StringCaseConv.hpp`** header](StringCaseConversion/StringCaseConv.hpp).
 The exported helper functions are named **`ToStringUpper`** and **`ToStringLower`**.
 
 I wrote this C++ code with Visual Studio 2019; the code compiles cleanly in **C++17** mode 

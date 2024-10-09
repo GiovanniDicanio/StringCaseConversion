@@ -25,7 +25,7 @@ std::transform(str.begin(), str.end(), str.begin(),
 For example, searching StackOverflow for this type of conversion in C++, the following most-voted
 answer comes up:
 
-https://stackoverflow.com/a/313990/1629821
+https://stackoverflow.com/a/313990
 
 
 ```c++
@@ -33,7 +33,7 @@ https://stackoverflow.com/a/313990/1629821
 // *** BEWARE: WRONG CODE AHEAD ***
 
 // From StacOverflow most-voted answer:
-// https://stackoverflow.com/a/313990/1629821
+// https://stackoverflow.com/a/313990
 
 
 #include <algorithm>
